@@ -56,7 +56,7 @@ public class ReaderBorrow {
 	
 	// lấy dữ liệu DataBorrower
 	public void takeDataBorrower() {
-		File file = new File("D:\\Java_LTHDT\\LibraryManagement\\src\\alldata\\DataBorrower.txt");
+		File file = new File("C:\\Users\\dodan\\eclipse-workspace\\LibraryManagement\\src\\alldata\\DataBorrower.txt");
 
 	    try {
 	        Scanner scanner = new Scanner(file);

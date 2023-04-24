@@ -1,8 +1,8 @@
-4,Doremon,KimDong,2003,Truyen tranh,52
+4,Doremon,KimDong,2003,Truyen tranh,53
 1,Doremon lac vao dong gai,KimDong,2003,Truyen tranh,45
 3,Lich Su Dang,KimDong,2004,Giao duc,0
 2,Toan roi rac,KimDong,2003,Giao duc,70
-5,Shin Cau Be But Chi,KimDong,2003,Truyen tranh,102
+5,Shin Cau Be But Chi,KimDong,2003,Truyen tranh,96
 7,Toan cao cap,Nhieu tac gia,200,Giao duc,73
 8,Tam ly hoc,Nhieu tac gia,1965,Giao duc,76
 9,Luan ly hoc,Nhieu tac gia,1971,Giao duc,85

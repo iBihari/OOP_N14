@@ -1,5 +1,4 @@
 21,dodanghoana1,hoan123,Do Dang Hoan,20,Thai Nguyen,983419732,920921
-1,AQNYk0f,hOG,Nguyen Van Anh,18,Thai Nguyen,981018575,100169
 2,Ynw9gHH,qSf,Do Xuan Tai,20,Thai Binh,981029470,10026731
 3,J7gSZuV,7Bl,Ho Quy Nhu,20,Thai Nguyen,381026805,10029196
 4,ztMczIK,rP2,Tai Van Linh,22,Ha Noi,951012962,1002
